@@ -1,0 +1,9 @@
+functional vs class based component?
+
+
+State:
+
+Constructor always gets called with props 
+
+When key and property are the same name, you can just use
+one name (videos: videos) to video
